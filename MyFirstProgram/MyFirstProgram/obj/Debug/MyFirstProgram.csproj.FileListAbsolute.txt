@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\Pablo\Desktop\CourseHomeworks\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
